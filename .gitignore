@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Tesseract OCR training data (if any)
+tessdata/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS/system files
+.DS_Store
+Thumbs.db
+
+# Python-specific
+*.log
+*.pot
+*.pyc
+*.pyo
+
+# Environment variables or config
+.env
+.env.*
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Project-specific
+requirements.txt
+
+/localtest/
